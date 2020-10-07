@@ -1,6 +1,6 @@
 # Proyecto con Microsoft PowerBi - HumanComputing3.0.
 
-<h1><a href="https://powerbi.microsoft.com/" target="<i>blank" rel="noopener noreferrer"># <i>PowerBi<i></a></h1>
+<h1><a href="https://powerbi.microsoft.com/" target="blank" rel="noopener noreferrer"># <i>PowerBi<i></a></h1>
 <p>
     Power BI es un servicio de análisis empresarial de Microsoft, su objetivo es proporcionar visualizaciones interactivas y capacidades de inteligencia empresarial (en inglés: business intelligence o BI) con una interfaz lo suficientemente simple como para que los usuarios finales creen sus propios informes y paneles. <br>
     Power BI proporciona servicios de BI basados en la nube, conocidos como "Power BI Services", junto con una interfaz basada en escritorio, denominada "PowerBI Desktop". Ofrece capacidades de almacenamiento de datos, incluyendo preparación de datos, descubrimiento de datos y paneles interactivos. En marzo de 2016, Microsoft lanzó un servicio adicional llamado "Power BI Embedded" en su Azure plataforma en la nube. Uno de los principales diferenciadores del producto es la capacidad de cargar visualizaciones personalizadas.
@@ -51,6 +51,18 @@
 <p>
     En esta ocasión tenemos a las empresas Appol, HC3 y Tractchun, compañías de la industria manufacturera, que cuentan con la unión de agentes, encargados en Tecnologías de ls Información (TI) quienes dan soporte a Tickets/partes de incidencias para todo lo referente a sus tecnologías de SE (Sistemas, Hardware, Software, etc). <br>
     El gerente del equipo requiere monitorizar y revisar áreas de mejora de sus servicios, para lo cual ha extraído una parte del sistema de BDs de Tickets que tienen, además, pide realizar un análisis profundo en base a la clasificación de sus empleados. <br>
+    Para evitar el uso de Diagramas de E/R, que es más 'para el informático'.
+    <blockquote>
+        <img src="Imágenes/E-R.PNG" alt="">
+    </blockquote>
+    Caer en la tentativa de Excels tipo Sábana
+    <blockquote>
+        <img src="Imágenes/TablasSabana.PNG" alt=""> 
+    </blockquote>
+    Generamos un modelado de datos de tipo estrella, preparado para la estrategia visual y la interaccióncon cualquier usuario.
+    <blockquote>
+        <img src="Imágenes/cicles.PNG" alt=""> 
+    </blockquote>
     El resultado final, será un informe en tiempo real para gerencia y otros para la plantilla.
     <cite>
         Vista para reportes de gerencia.
@@ -73,3 +85,4 @@
         <img src="Imágenes/l-d.gif" alt="">
     </blockquote>
 </p>
+<img src="Imágenes/end.PNG" alt="">
