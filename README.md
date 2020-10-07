@@ -43,13 +43,27 @@
     </blockquote>
    El <i>objetivo principal</i> mejorar nuestros cuadros de mando, con el análisis de los datos, viendo la evolución y los resultados de productividad desde una única plataforma. <br>
    <i>Objetivo secundario</i> impulsar el negocio. <br>
+   <blockquote>
+        <img src="Imágenes/planning.PNG" alt="">
+    </blockquote>
 </p>
 <h1>Descripción de las tareas del proyecto.</h1>
 <p>
     En esta ocasión tenemos a las empresas Appol, HC3 y Tractchun, compañías de la industria manufacturera, que cuentan con la unión de agentes, encargados en Tecnologías de ls Información (TI) quienes dan soporte a Tickets/partes de incidencias para todo lo referente a sus tecnologías de SE (Sistemas, Hardware, Software, etc). <br>
     El gerente del equipo requiere monitorizar y revisar áreas de mejora de sus servicios, para lo cual ha extraído una parte del sistema de BDs de Tickets que tienen, además, pide realizar un análisis profundo en base a la clasificación de sus empleados. <br>
     El resultado final, será un informe en tiempo real para gerencia y otros para la plantilla.
-    <blockquote>
-        <img src="Imágenes/planning.PNG" alt="">
-    </blockquote>
+    <cite>
+        Vista para reportes de gerencia.
+        <blockquote>
+            <img src="Imágenes/HC3-Agentes.PNG" alt=""> Gerencia.
+        </blockquote>
+        Vista para reportes de plantilla en Europa.
+        <blockquote>
+            <img src="Imágenes/europa-utilidad.PNG" alt=""> Europa.
+        </blockquote>
+        Vista para reportes de plantilla en España.
+        <blockquote>
+            <img src="Imágenes/españa-utilidad.PNG" alt=""> España.
+        </blockquote>
+    </cite>
 </p>
