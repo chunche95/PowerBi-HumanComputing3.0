@@ -50,6 +50,6 @@
     El gerente del equipo requiere monitorizar y revisar áreas de mejora de sus servicios, para lo cual ha extraído una parte del sistema de BDs de Tickets que tienen, además, pide realizar un análisis profundo en base a la clasificación de sus empleados. <br>
     El resultado final, será un informe en tiempo real para gerencia y otros para la plantilla.
     <blockquote>
-        <img src="Imágenes/schema.PNG" alt="">
+        <img src="Imágenes/planning.PNG" alt="">
     </blockquote>
 </p>
