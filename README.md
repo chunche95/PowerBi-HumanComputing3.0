@@ -73,5 +73,6 @@
         <video src="Imágenes/light-dark.mp4" loop autoplay></video>
         <img src="Imágenes/l-d.mp4" alt="">
         <video src="Imágenes/l-d.mp4" loop autoplay></video>
+        [![SC2 Video](Imágenes/l-d.mp4)](Imágenes/l-d.mp4)
     </blockquote>
 </p>
