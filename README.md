@@ -71,5 +71,7 @@
 <p>
     <blockquote>
         <video src="Imágenes/light-dark.mp4" loop autoplay></video>
+        <img src="Imágenes/l-d.mp4" alt="">
+        <video src="Imágenes/l-d.mp4" loop autoplay></video>
     </blockquote>
 </p>
