@@ -69,10 +69,7 @@
 </p>
 <h2>Aplicando los cambios de estilos para el modelo de gerencia. - Claro/Oscuro</h2>
 <p>
-    <blockquote>
-        <video src="Imágenes/light-dark.mp4" loop autoplay></video>
-        <img src="Imágenes/l-d.mp4" alt="">
-        <video src="Imágenes/l-d.mp4" loop autoplay></video>
-        [![SC2 Video](Imágenes/l-d.mp4)](Imágenes/l-d.mp4)
+    <blockquote>       
+        <img src="Imágenes/l-d.gif" alt="">
     </blockquote>
 </p>
