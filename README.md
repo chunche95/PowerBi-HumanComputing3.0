@@ -49,4 +49,7 @@
     En esta ocasión tenemos a las empresas Appol, HC3 y Tractchun, compañías de la industria manufacturera, que cuentan con la unión de agentes, encargados en Tecnologías de ls Información (TI) quienes dan soporte a Tickets/partes de incidencias para todo lo referente a sus tecnologías de SE (Sistemas, Hardware, Software, etc). <br>
     El gerente del equipo requiere monitorizar y revisar áreas de mejora de sus servicios, para lo cual ha extraído una parte del sistema de BDs de Tickets que tienen, además, pide realizar un análisis profundo en base a la clasificación de sus empleados. <br>
     El resultado final, será un informe en tiempo real para gerencia y otros para la plantilla.
+    <blockquote>
+        <img src="Imágenes/schema.PNG" alt="">
+    </blockquote>
 </p>
