@@ -70,6 +70,6 @@
 <h2>Aplicando los cambios de estilos para el modelo de gerencia. - Claro/Oscuro</h2>
 <p>
     <blockquote>
-        <video src="images/light-dark.mp4" loop autoplay></video>
+        <video src="Imágenes/light-dark.mp4" loop autoplay></video>
     </blockquote>
 </p>
