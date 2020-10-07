@@ -61,7 +61,7 @@
     </blockquote>
     Generamos un modelado de datos de tipo estrella, preparado para la estrategia visual y la interaccióncon cualquier usuario.
     <blockquote>
-        <img src="Imágenes/cicles.PNG" alt=""> 
+        <img src="Imágenes/ciclos.PNG" alt=""> 
     </blockquote>
     El resultado final, será un informe en tiempo real para gerencia y otros para la plantilla.
     <cite>
