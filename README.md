@@ -70,9 +70,6 @@
 <h2>Aplicando los cambios de estilos para el modelo de gerencia. - Claro/Oscuro</h2>
 <p>
     <blockquote>
-        <img src="Imágenes/light.PNG" alt=""> España.
-    </blockquote>
-    <blockquote>
-        <img src="Imágenes/dark.PNG" alt=""> España.
+        <video src="images/light-dark.mp4" loop autoplay></video>
     </blockquote>
 </p>
