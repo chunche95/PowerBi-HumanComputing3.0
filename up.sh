@@ -12,7 +12,7 @@ git add *.json
 git nota "Informe de rendimiento de archivo PBIX"
 git sube
 
-git add *.pbix
+git add Informes/*
 git nota "Reportes"
 git sube
 
