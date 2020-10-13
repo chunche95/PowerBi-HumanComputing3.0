@@ -1,4 +1,5 @@
 #!/bin/bash
+git pull 
 
 git add Adjuntos/.
 git nota "Archivos adjuntos del proyecto SIMPLE COMPETITION"
